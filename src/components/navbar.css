@@ -12,7 +12,7 @@ z-index: 100;
     margin-right: 150px;
 }
 .left{
-    position: absolute; /* relative kela ki navbar yachya khali yeta*/
+    position: absolute; 
     height: 660px;
     width: 100px;
     background-image: url('C:\Users\0049ET744\Desktop\onlineportal\onlineportal\public\images\3.png');
@@ -20,7 +20,7 @@ z-index: 100;
     background-size: cover;
 }
 .right{
-    position: absolute; /* relative kela ki navbar yachya khali yeta*/
+    position: absolute; 
     right: 0px;
     height: 100vh;
 }
@@ -59,7 +59,7 @@ z-index: 100;
     }
     .right{
         display: none;
-        position: absolute; /* relative kela ki navbar yachya khali yeta*/
+        position: absolute; 
         right: 0px;
         height: 100vh;
         width: 100%;

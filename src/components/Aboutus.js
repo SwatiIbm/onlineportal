@@ -28,7 +28,7 @@ Our Services:
     <div className="textcontainer1">So let us do the work while you sit having Garam Rotis
          in your comfy clothes
         
-         <div className="whatsapp"><a href="https://api.whatsapp.com/send?phone=+918788083759">
+         <div className="whatsapp"><a href="https://api.whatsapp.com/send?phone=+918888357260">
           <img className="whatsappus" src="/images/WhatsappUs.png"></img></a></div>
         </div>
 

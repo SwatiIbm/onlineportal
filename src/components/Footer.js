@@ -7,8 +7,8 @@ function Footer() {
         <div className="block" id="diva"></div>
         <div className="left1">
           <p className="address">
-            <strong>Interior Designer</strong><br /><br />IBM D Block,<br />Manyata Tech Park,<br /> Maharashtra 421004.<br /> Connect us-9876543211,9876754323.<br/>
-            interiordesigner@gmail.com
+            <strong>Interior Designer</strong><br /><br />IBM D Block,<br />Rajiv Gandhi Tech Park,<br /> Maharashtra.<br /> Connect us-8888898989, 6566666666<br/>
+           swatipnichat@gmail.com
           </p>
         </div>
         <div className="right1">
